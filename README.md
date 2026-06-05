@@ -115,6 +115,14 @@ public class Melon {
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GlMelon/GlMelon/output/github-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+---
+
 ### 🎯 Featured Projects
 
 <div align="center">
